@@ -1,12 +1,11 @@
-### Olá, eu sou o Christian Oliveira, bem-vindo ao meu perfil! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5786FF&height=120&section=header"/>
 
-🔭 Atualmente estudo engenharia da computação.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5786FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/christianduhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianduhp&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianduhp&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christianduhp&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianduhp&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
