@@ -22,7 +22,7 @@
 
   ## 
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=christianduhp&color=5786FF&&bg_color=0d1117theme=dark&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=christianduhp&theme=react-dark&hide_border=true&title_color=5786FF&line=5786FF&color=5786FF)](https://github.com/christianduhp/github-readme-activity-graph)
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
