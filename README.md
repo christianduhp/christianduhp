@@ -16,8 +16,10 @@
   <img align="center" alt="LateX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
   <img align="center" alt="Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:christianoliver2010@gmail.com"><img align="center"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:christianoliver2010@gmail.com"><img align="center"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/christian-eduardo-oliveira" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://cursos.alura.com.br/vitrinedev/christianoliver" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86276393/202913530-1e20fe60-6731-4597-ad15-6b60af96a7df.png" alt="Vitrine.Dev badge">
+  </a>
 </div>
 
   ## 
